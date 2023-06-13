@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "sites": "arion-chat-app.web.app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
