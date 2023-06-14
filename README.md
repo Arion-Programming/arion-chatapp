@@ -3,7 +3,7 @@ https://fireship-chatapp-db48f.web.app/
 
 ## Starting
 Run `npm install` to install all needed dependencies.
-Create a Firebase project and get the config and post it to the //config here comment.
+Create a Firebase project and get the config and post it to the `//config here` comment.
 Create a firestore with a Table called message with following fields:
 createdAt - Timestamp
 uid - String
