@@ -12,6 +12,6 @@ photoURL - String
 
 run `firebase login` to log into firebase
 run `firebase init` to initialze the projct
-Then you can run firebase deploy to deploy code to the remote server
+Then you can run `firebase deploy` to deploy code to the remote server
 
 If you want to test your code locally run `npm start`
