@@ -1,5 +1,5 @@
 ## Example Deployed to Firebase
-https://fireship-chatapp-db48f.web.app/
+https://arion-chat-app.web.app/
 
 ## Starting
 Run `npm install` to install all needed dependencies.
